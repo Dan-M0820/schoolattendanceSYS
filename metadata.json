@@ -1,0 +1,6 @@
+{
+  "name": "School Attendance System",
+  "description": "School attendance, absence tracking, excuse review, and reporting portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
